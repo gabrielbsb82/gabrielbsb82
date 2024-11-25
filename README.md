@@ -2,7 +2,7 @@
 
 
 ## <font color=#14b1e0>Sobre</font>
-Sou um analista de dados júnior especializado em Python, Power BI, Looker Studio e Excel. Tenho experiência em manipulação, limpeza e análise de dados, utilizando técnicas de Python para gerar insights valiosos. Além disso, crio dashboards interativos e relatórios dinâmicos em Power BI e Looker Studio, facilitando a visualização e interpretação de dados.
+Sou um analista de dados especializado em Python, Power BI, Looker Studio e Excel. Tenho experiência em manipulação, limpeza e análise de dados, utilizando técnicas de Python para gerar insights valiosos. Além disso, crio dashboards interativos e relatórios dinâmicos em Power BI e Looker Studio, facilitando a visualização e interpretação de dados.
 
 Minha abordagem foca em transformar dados brutos em informações claras e acessíveis, ajudando empresas a tomar decisões mais eficientes e estratégicas. Estou sempre em busca de aprimorar minhas habilidades para oferecer soluções personalizadas que otimizem processos e melhorem a gestão de dados nas organizações.
 
